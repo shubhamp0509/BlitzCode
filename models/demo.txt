@@ -1,0 +1,17 @@
+first name 
+middle name
+last name
+gender
+DOB
+email
+mobile
+blood group 
+address
+profession
+pass
+confirm pass
+profile photo
+
+
+
+
